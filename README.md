@@ -9,3 +9,4 @@ This repository contains a Looker project focuses on HR analytics and aims to pr
 
 # Looker dashboard
 - Has an HR overview
+<https://lookerstudio.google.com/reporting/b864aee4-c99f-4ef7-ab23-e5eeb5839dad>
